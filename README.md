@@ -1,4 +1,4 @@
-# HealthFlow — Live Demo
+# HealthFlow (Demo)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-success?logo=github)](https://jhhfut.github.io/healthflow-demo/)
