@@ -13,7 +13,7 @@ const DEMO_BANNER = (
     padding: '0.35rem 1rem',
     letterSpacing: '0.01em',
   }}>
-    ⚡ Interactive demo — all data is simulated in-browser, no backend required.
+    Interactive demo - all data is simulated in-browser.
     &nbsp;
     <a
       href="https://github.com/healthflow/healthflow"
