@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+src/assets/fonts/*.woff2
+.DS_Store
+.claude/
