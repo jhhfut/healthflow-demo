@@ -16,7 +16,7 @@ const DEMO_BANNER = (
     Interactive demo, all data is simulated.
     &nbsp;
     <a
-      href="https://github.com/healthflow/healthflow"
+      href="https://github.com/jhhfut/healthflow"
       target="_blank"
       rel="noopener noreferrer"
       style={{ color: 'rgba(255,255,255,0.85)', textDecoration: 'underline' }}
