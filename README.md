@@ -5,7 +5,7 @@
 [![No Backend](https://img.shields.io/badge/backend-none-lightgrey)](src/api/client.ts)
 
 Interactive demo of [HealthFlow](https://github.com/jhhfut/healthflow),
-a privacy-preserving offline-first clinical visit workflow agent.
+an offline, privacy-preserving clinical documentation and interoperability agent.
 
 **Live app:** https://jhhfut.github.io/healthflow-demo/
 
